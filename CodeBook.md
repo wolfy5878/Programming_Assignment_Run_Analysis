@@ -1,4 +1,4 @@
-#Assignment Code Book for the Tidy Data Set
+#Assignment Code Book
 The approach used to analyze this data set and create the provided tiny data set is outlined in the assignment README.txt file in this repository. Below is the background provided in the original dataset for the data used in this assignment.
 
 ##Data Background
